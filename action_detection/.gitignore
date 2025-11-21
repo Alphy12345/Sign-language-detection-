@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+weights/
+*.h5
+*.zip
+.DS_Store
