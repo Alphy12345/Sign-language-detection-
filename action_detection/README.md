@@ -38,3 +38,4 @@ python inference.py --video path/to/video.mp4 --weights weights/action_model.h5
 - For quick testing, you can run training on a tiny synthetic dataset created by utils (see README sections).
 - Replace `weights/action_model.h5` with your trained model for real inference.
 
+# Sign Language Detection
